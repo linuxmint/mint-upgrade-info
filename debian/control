@@ -1,0 +1,11 @@
+Source: mint-upgrade-info
+Section: admin
+Priority: optional
+Maintainer: Clement Lefebvre <root@linuxmint.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: mint-upgrade-info
+Architecture: all
+Description: Information about upgrade paths
+ Provides information to the Update Manager on how to perform distribution upgrades.
