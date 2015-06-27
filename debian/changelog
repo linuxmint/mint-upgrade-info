@@ -1,3 +1,9 @@
+mint-upgrade-info (1.0.1) rafaela; urgency=medium
+
+  * Updated upgrade info for Rafaela
+
+ -- Clement Lefebvre <root@linuxmint.com>  Sat, 27 Jun 2015 12:49:26 +0200
+
 mint-upgrade-info (1.0.0) rafaela; urgency=low
 
   * Initial release
