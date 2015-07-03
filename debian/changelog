@@ -1,3 +1,9 @@
+mint-upgrade-info (1.0.2) rafaela; urgency=medium
+
+  * Opened up 17.2 upgrade paths for Cinnamon and MATE editions
+
+ -- Clement Lefebvre <root@linuxmint.com>  Fri, 03 Jul 2015 13:18:11 +0200
+
 mint-upgrade-info (1.0.1) rafaela; urgency=medium
 
   * Updated upgrade info for Rafaela
