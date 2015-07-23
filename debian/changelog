@@ -1,3 +1,9 @@
+mint-upgrade-info (1.0.3) rafaela; urgency=medium
+
+  * Opened up the upgrade path for 17/17.1 Xfce/KDE -> 17.2
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 23 Jul 2015 17:56:47 +0200
+
 mint-upgrade-info (1.0.2) rafaela; urgency=medium
 
   * Opened up 17.2 upgrade paths for Cinnamon and MATE editions
