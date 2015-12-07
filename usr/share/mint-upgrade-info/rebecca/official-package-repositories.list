@@ -1,6 +1,6 @@
-deb http://packages.linuxmint.com rafaela main upstream import
+deb http://packages.linuxmint.com rosa main upstream import
 
-deb http://extra.linuxmint.com rafaela main
+deb http://extra.linuxmint.com rosa main
 
 deb http://archive.ubuntu.com/ubuntu trusty main restricted universe multiverse
 deb http://archive.ubuntu.com/ubuntu trusty-updates main restricted universe multiverse

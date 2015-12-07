@@ -1,5 +1,5 @@
 [general]
-target_name = "Linux Mint 17.2 Rafaela"
-target_codename = rafaela
-editions = cinnamon, mate, xfce, kde
+target_name = "Linux Mint 17.3 Rosa"
+target_codename = rosa
+editions = cinnamon, mate
 
