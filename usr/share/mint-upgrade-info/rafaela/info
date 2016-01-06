@@ -1,5 +1,5 @@
 [general]
 target_name = "Linux Mint 17.3 Rosa"
 target_codename = rosa
-editions = cinnamon, mate
+editions = cinnamon, mate, kde, xfce
 
