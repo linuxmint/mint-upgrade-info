@@ -1,3 +1,9 @@
+mint-upgrade-info (1.0.5) rosa; urgency=medium
+
+  * Opened up 17.3 upgrade paths for KDE and Xfce editions
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 06 Jan 2016 16:50:03 +0000
+
 mint-upgrade-info (1.0.4) rosa; urgency=medium
 
   * Added upgrade path towards Linux Mint 17.3
