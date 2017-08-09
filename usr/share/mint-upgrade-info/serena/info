@@ -1,0 +1,4 @@
+[general]
+target_name = "Linux Mint 18.2 Sonya"
+target_codename = sonya
+editions = cinnamon, mate, xfce, kde
