@@ -1,3 +1,9 @@
+mint-upgrade-info (1.0.9) sonya; urgency=medium
+
+  * Add upgrade info from Mint 18 to Mint 18.2
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 09 Aug 2017 12:29:43 +0200
+
 mint-upgrade-info (1.0.8) sonya; urgency=medium
 
   * Add upgrade path towards Linux Mint 18.2
