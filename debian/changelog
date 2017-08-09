@@ -1,3 +1,9 @@
+mint-upgrade-info (1.0.8) sonya; urgency=medium
+
+  * Add upgrade path towards Linux Mint 18.2
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 03 Jul 2017 14:57:41 +0200
+
 mint-upgrade-info (1.0.7) sarah; urgency=medium
 
   * Open paths for Xfce and KDE editions of Mint 18 towards 18.1
