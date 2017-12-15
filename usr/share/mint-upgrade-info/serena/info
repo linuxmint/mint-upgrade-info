@@ -1,4 +1,4 @@
 [general]
 target_name = "Linux Mint 18.3 Sylvia"
 target_codename = sylvia
-editions = cinnamon, mate
+editions = cinnamon, mate, xfce, kde
