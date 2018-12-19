@@ -1,0 +1,4 @@
+[general]
+target_name = "Linux Mint 19.1 Tessa"
+target_codename = tessa
+editions = cinnamon, mate, xfce
