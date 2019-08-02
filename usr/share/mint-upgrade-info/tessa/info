@@ -1,0 +1,4 @@
+[general]
+target_name = "Linux Mint 19.2 Tina"
+target_codename = tina
+editions = cinnamon, mate, xfce
