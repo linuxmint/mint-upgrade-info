@@ -1,4 +1,4 @@
 [general]
-target_name = "Linux Mint 19.2 Tina"
-target_codename = tina
+target_name = "Linux Mint 19.3 Tricia"
+target_codename = tricia
 editions = cinnamon, mate, xfce
