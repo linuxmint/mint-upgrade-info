@@ -1,0 +1,4 @@
+[general]
+target_name = "Linux Mint 20.1 Ulyssa"
+target_codename = ulyssa
+editions = cinnamon, mate, xfce
