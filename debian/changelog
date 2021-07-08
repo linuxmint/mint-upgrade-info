@@ -1,3 +1,9 @@
+mint-upgrade-info (1.1.8) uma; urgency=medium
+
+  * Open path towards 20.2
+
+ -- Clement Lefebvre <root@linuxmint.com>  Thu, 08 Jul 2021 13:23:18 +0100
+
 mint-upgrade-info (1.1.7) ulyssa; urgency=medium
 
   * Open path 20.0 -> 20.1
