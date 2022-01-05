@@ -1,4 +1,4 @@
 [general]
-target_name = "Linux Mint 20.2 Uma"
-target_codename = uma
+target_name = "Linux Mint 20.3 Una"
+target_codename = una
 editions = cinnamon, mate, xfce
