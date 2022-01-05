@@ -1,3 +1,9 @@
+mint-upgrade-info (1.1.9) una; urgency=medium
+
+  * Open path towards 20.3
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 05 Jan 2022 15:08:25 +0000
+
 mint-upgrade-info (1.1.8) uma; urgency=medium
 
   * Open path towards 20.2
