@@ -1,0 +1,4 @@
+[general]
+target_name = "Linux Mint 21.1 Vera"
+target_codename = vera
+editions = cinnamon, mate, xfce
