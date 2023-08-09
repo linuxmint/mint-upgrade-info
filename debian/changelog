@@ -1,3 +1,9 @@
+mint-upgrade-info (1.2.3) victoria; urgency=medium
+
+  * Remove libreoffice-style-breeze
+
+ -- Clement Lefebvre <root@linuxmint.com>  Wed, 09 Aug 2023 13:12:55 +0200
+
 mint-upgrade-info (1.2.2) victoria; urgency=medium
 
   * Open path towards 21.2
