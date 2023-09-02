@@ -1,5 +1,6 @@
 [general]
 target_name = "Linux Mint 20 Ulyana"
+target_codename = ulyana
 editions = cinnamon, mate, xfce
 architectures = amd64
 link = https://blog.linuxmint.com/?p=3946

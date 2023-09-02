@@ -1,5 +1,6 @@
 [general]
 target_name = "LMDE 5 Elsie"
+target_codename = elsie
 editions = cinnamon
 architectures = amd64
 link = https://blog.linuxmint.com/?p=4320
