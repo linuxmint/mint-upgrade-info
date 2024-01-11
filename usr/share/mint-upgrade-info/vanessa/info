@@ -1,4 +1,4 @@
 [general]
-target_name = "Linux Mint 21.2 Victoria"
-target_codename = victoria
+target_name = "Linux Mint 21.3 Virginia"
+target_codename = virginia
 editions = cinnamon, mate, xfce
