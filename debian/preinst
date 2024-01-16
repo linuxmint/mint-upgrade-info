@@ -1,0 +1,14 @@
+#!/bin/sh
+
+set -e
+
+case "$1" in
+    install|upgrade)
+        echo "Removing previous content in /usr/share/mint-upgrade-info..."
+        rm -rf /usr/share/mint-upgrade-info/* || echo "Failed to remove old files."
+    ;;
+    abort-upgrade)
+    ;;
+esac
+
+exit 0
