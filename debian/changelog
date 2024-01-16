@@ -1,3 +1,9 @@
+mint-upgrade-info (1.2.6) virginia; urgency=medium
+
+  * preinst: Remove content before upgrading the pkg
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 16 Jan 2024 10:31:08 +0000
+
 mint-upgrade-info (1.2.5) virginia; urgency=medium
 
   * Replace duplicated folders with links
