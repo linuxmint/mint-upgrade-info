@@ -1,0 +1,5 @@
+[general]
+target_name = "LMDE 6 Faye"
+editions = cinnamon
+architectures = i386, amd64
+link = https://blog.linuxmint.com/?p=4571
