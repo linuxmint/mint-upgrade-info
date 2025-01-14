@@ -1,0 +1,4 @@
+[general]
+target_name = "Linux Mint 22.1 Xia"
+target_codename = xia
+editions = cinnamon, mate, xfce
