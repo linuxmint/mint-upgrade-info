@@ -1,0 +1,4 @@
+debian/files
+debian/mint-upgrade-info/
+debian/*debhelper*
+debian/*substvar*
