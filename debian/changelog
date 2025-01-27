@@ -1,3 +1,10 @@
+mint-upgrade-info (1.2.8) xia; urgency=medium
+
+  * Add captain
+  * Don't remove geoclue
+
+ -- Clement Lefebvre <root@linuxmint.com>  Mon, 27 Jan 2025 18:03:03 +0000
+
 mint-upgrade-info (1.2.7) xia; urgency=medium
 
   * Add .gitignore
