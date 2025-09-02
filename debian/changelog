@@ -1,3 +1,9 @@
+mint-upgrade-info (1.2.9) zara; urgency=medium
+
+  * Open path towards 22.0 -> 22.2
+
+ -- Clement Lefebvre <root@linuxmint.com>  Tue, 02 Sep 2025 12:21:55 +0200
+
 mint-upgrade-info (1.2.8) xia; urgency=medium
 
   * Add captain
